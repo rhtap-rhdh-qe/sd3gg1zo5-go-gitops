@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sd3gg1zo5-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sd3gg1zo5-go-gitops
